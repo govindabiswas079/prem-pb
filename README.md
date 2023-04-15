@@ -1,7 +1,8 @@
-[![MasterHead](https://kinsta.com/wp-content/uploads/2020/06/banner-sizes.jpg)](https://govindabiswas.io)
+[![MasterHead](https://www.kindpng.com/picc/m/466-4661784_offshore-software-software-development-hd-png-download.png)](https://govindabiswas.io)
 <h1 align="center">Hi 👋, I'm Govinda Biswas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://img.freepik.com/free-vector/app-development-banner_33099-1720.jpg?w=2000](https://www.kindpng.com/picc/m/466-4661784_offshore-software-software-development-hd-png-download.png)">
+
+<img align="right" alt="Coding" width="400" src="[https://img.freepik.com/free-vector/app-development-banner_33099-1720.jpg?w=2000]">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prem-pb&label=Profile%20views&color=0e75b6&style=flat" alt="prem-pb" /> </p>
 
