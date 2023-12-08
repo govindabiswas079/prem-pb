@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prem-pb&label=Profile%20views&color=0e75b6&style=flat" alt="prem-pb" /> </p>
 
-- 🌱 I’m currently learning **Ionic**
+- 🌱 I’m currently learning **Java, DSA**
 
-- 💬 Ask me about **react, react-native, node, mongodb,**
+- 💬 Ask me about **React, React-Native, Node, mongoDB**
 
 - 📫 How to reach me **9511723507**
 
