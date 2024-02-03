@@ -1,8 +1,6 @@
-[![MasterHead](https://camo.githubusercontent.com/6587ec1b3304a4351679cd4324e47a86ac3e17f878d446bf0e8e6856551d80ba/68747470733a2f2f7468656e696e65686572747a2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f66756c6c2d737461636b2d646576656c6f706d656e742e676966)](https://govindabiswas.io)
+
 <h1 align="center">Hi 👋, I'm Govinda Biswas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<img align="right" alt="Coding" width="400" src="https://www.pngkey.com/png/full/830-8307857_web-design-ibadan-web-development-career-hd.png"  height="200" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prem-pb&label=Profile%20views&color=0e75b6&style=flat" alt="prem-pb" /> </p>
 
@@ -13,7 +11,7 @@
 - 📫 How to reach me **9511723507**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" src="https://img.freepik.com/premium-vector/flexible-time-work-man-schedule-life-quality-home-management-focus-balance-clock_159757-650.jpg" width="400"/>
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/govinda-biswas-82b94a1b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/govinda-biswas-82b94a1b7" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/govinda.biswas.980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/govinda.biswas.980" height="30" width="40" /></a>
